@@ -1,0 +1,17 @@
+html {
+  padding: 0;
+}
+
+body {
+  padding: 0;
+}
+
+header {
+ background: #00b0d8 url(img/header-gradient.png) repeat-x;
+ margin: 0;
+}
+
+.header-bg {
+ background: url(img/header-animal.png) repeat-x center bottom; 
+ height: 388px; 
+}
